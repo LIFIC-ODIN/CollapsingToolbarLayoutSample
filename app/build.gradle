@@ -51,6 +51,7 @@ dependencies {
     implementation "androidx.cardview:cardview:${versions.androidx}"
     implementation "androidx.constraintlayout:constraintlayout:${versions.constraintLayout}"
     implementation "com.squareup.picasso:picasso:${versions.picasso}"
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
 
     // Coroutines
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:${versions.coroutines}"
